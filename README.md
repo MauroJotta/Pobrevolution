@@ -11,4 +11,6 @@ Para ejecutar el proyecto:
 
 4- Los controles son usando el pad numerico y presionando ENTER al escribir un numero
 
+5- Recomendacion: Agrandar la ventana del termina y hacer CTRL + Rueda del raton para hacer Zoom y ver el juego en el tamaño que te sea mas comodo
+
 ATENCION: Este proyecto fue un trabajo practico para la cursada del Plan 111MIL (2018) en las primeras etapas del mismo, el codigo tiene muchas cosas que se podrian mejorar y no representa mis habilidades de hoy en dia. Lo comparto mas que nada porque es un lindo juego para pasar el rato y jugar con algun amigo o solo.
